@@ -1,0 +1,46 @@
+{
+    "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "position": "Software Engineer",
+      "department": "Development",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "position": "Product Manager",
+      "department": "Product",
+      "email": "bob.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Carol White",
+      "position": "UX Designer",
+      "department": "Design",
+      "email": "carol.white@example.com"
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "position": "Data Analyst",
+      "department": "Analytics",
+      "email": "david.brown@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Eva Green",
+      "position": "Marketing Specialist",
+      "department": "Marketing",
+      "email": "eva.green@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Frank Harris",
+      "position": "HR Manager",
+      "department": "Human Resources",
+      "email": "frank.harris@example.com"
+    }
+    ]
+  }
